@@ -10,7 +10,8 @@ body {
 
 .video{
   position:absolute;
-  z-index:-1
+  z-index:-1;
+  width: 100%;
 }
 .background{
   background: #0a192fcf;
