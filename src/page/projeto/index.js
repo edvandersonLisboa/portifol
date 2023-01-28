@@ -26,7 +26,7 @@ information about each track. Create and save new playlists of
  Node.js
  Express
                         Spotify Web API</TecnologiasProjetoRight>
-                        <a href="#" >   <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<a  >   <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clipPath="url(#clip0_209_108)">
 <path d="M10.5 9.67412L18 2.5" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
 <path d="M13 2.5H18V7.28277" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
@@ -60,7 +60,7 @@ information about each track. Create and save new playlists of
  Node.js
  Express
                         Spotify Web API</TecnologiasProjetoLeft>
-                        <a href="#" >   <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<a  >   <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clipPath="url(#clip0_209_108)">
 <path d="M10.5 9.67412L18 2.5" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
 <path d="M13 2.5H18V7.28277" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
@@ -94,7 +94,7 @@ information about each track. Create and save new playlists of
  Node.js
  Express
                         Spotify Web API</TecnologiasProjetoRight>
-                        <a href="#" >   <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<a  >   <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clipPath="url(#clip0_209_108)">
 <path d="M10.5 9.67412L18 2.5" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
 <path d="M13 2.5H18V7.28277" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
@@ -128,7 +128,7 @@ information about each track. Create and save new playlists of
  Node.js
  Express
                         Spotify Web API</TecnologiasProjetoLeft>
-                        <a href="#" >   <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<a >   <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clipPath="url(#clip0_209_108)">
 <path d="M10.5 9.67412L18 2.5" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
 <path d="M13 2.5H18V7.28277" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
