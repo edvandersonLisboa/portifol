@@ -1,0 +1,4 @@
+npx create-react-app my-app  iniciando um novo app
+
+npm install styled-components -> estilizar componetes
+

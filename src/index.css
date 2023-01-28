@@ -5,9 +5,32 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #0A192F;
 }
 
+.video{
+  position:absolute;
+  z-index:-1
+}
+.background{
+  background: #0a192fcf;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Bree_Serif";
+  src: url(./asserts/fonts/Bree_Serif/BreeSerif-Regular.ttf);
+}
+@font-face {
+  font-family: "Ubuntu-Regular";
+  src: url(./asserts/fonts/Ubuntu/Ubuntu-Regular.ttf);
+}
+
+@font-face{
+  font-family: "Calistoga";
+  src:url(./asserts/fonts/Calistoga/Calistoga-Regular.ttf);
+}
+
